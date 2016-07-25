@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = ArithmaticOperation::VERSION
   spec.authors       = ["KSureshB"]
   spec.email         = ["sureshbabuitsoft@gmail.com"]
-
+  spec.metadata['allowed_push_host'] = 'https://rubygems.org'
   spec.summary       = %q{wrapper with arithmatic operations.}
   spec.description   = %q{wrapper with arithmatic operations.}
   spec.homepage      = "http://github.com/suresh/operations"
